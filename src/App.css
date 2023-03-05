@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.fruit-item {
+  width: 140px;
+}
+
+.fruit-item img {
+  width: 100%;
+}
+
